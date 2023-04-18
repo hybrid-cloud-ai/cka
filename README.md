@@ -1,3 +1,7 @@
+# 百度网盘地址：
+https://pan.baidu.com/share/init?surl=iIIgmujS3f-NhIfkToFoYQ
+提取密码：4888
+
 # 脚本执行步骤：
 在client节点上执行
 ```
